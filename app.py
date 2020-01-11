@@ -156,5 +156,5 @@ def main():
     pass
     print "Precision: " + str(round(mean_precision/len(querys),2))
     print "Recall: " + str(round(mean_recall/len(querys),2))
-    print "Acuracy: " + str(round(mean_acuracy/len(querys),2))
+    print "Accuracy: " + str(round(mean_acuracy/len(querys),2))
 main()
